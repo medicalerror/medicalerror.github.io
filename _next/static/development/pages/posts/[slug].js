@@ -68,7 +68,7 @@ var Footer = function Footer() {
       lineNumber: 44
     },
     __self: this
-  }, "If I only have an opportunity, I would sue those careless practitioners.", __jsx("br", {
+  }, "If I only have an opportunity, I would give those greedy and careless malpractitioners some lessons.", __jsx("br", {
     className: "jsx-2223359152",
     __source: {
       fileName: _jsxFileName,
@@ -111,7 +111,7 @@ var Footer = function Footer() {
   }))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
     id: "2223359152",
     __self: this
-  }, ".footer.jsx-2223359152{background-color:#000000;padding:60px 0 50px;color:#ffffff;font-size:12px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;}.footer.jsx-2223359152>div.jsx-2223359152{-webkit-flex:1;-ms-flex:1;flex:1;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;min-width:300px;}p.jsx-2223359152{text-align:center;}a.jsx-2223359152{color:#dddddd;}a.jsx-2223359152:hover{color:#bbbbbb;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkQ6XFxOb2RlLmpzIFByb2plY3RzXFxOZXh0LmpzIEFwcHNcXG1lZGljYWxtYWxwcmFjdGljZS5naXRodWIuaW9cXGNvbXBvbmVudHNcXEZvb3Rlci5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUErRGtCLEFBR29DLEFBUWxCLEFBS1csQUFHSixBQUdBLGNBRmhCLEFBR0EsSUFOQSxPQWJzQixRQVFGLFlBUEosY0FDQyxlQUNGLDhCQU1HLGdCQUNsQiw0QkFOaUIseURBQ2pCIiwiZmlsZSI6IkQ6XFxOb2RlLmpzIFByb2plY3RzXFxOZXh0LmpzIEFwcHNcXG1lZGljYWxtYWxwcmFjdGljZS5naXRodWIuaW9cXGNvbXBvbmVudHNcXEZvb3Rlci5qcyIsInNvdXJjZXNDb250ZW50IjpbImNvbnN0IFBISUxfTkVXU1BBUFBFUlMgPSBbXHJcbiAge1xyXG4gICAgbmFtZTogJ1BoaWxpcHBpbmUgRGFpbHkgSW5xdWlyZXInLFxyXG4gICAgdXJsOiAnaHR0cDovL2lucXVpcmVyLm5ldC8nXHJcbiAgfSxcclxuICB7XHJcbiAgICBuYW1lOiAnUGhpbGlwcGluZSBTdGFyJyxcclxuICAgIHVybDogJ2h0dHA6Ly9waGlsc3Rhci5jb20vJ1xyXG4gIH0sXHJcbiAge1xyXG4gICAgbmFtZTogJ01hbmlsYSBCdWxsZXRpbicsXHJcbiAgICB1cmw6ICdodHRwczovL21iLmNvbS5waC8nXHJcbiAgfSxcclxuICB7XHJcbiAgICBuYW1lOiAnVGhlIE1hbmlsYSBUaW1lcycsXHJcbiAgICB1cmw6ICdodHRwOi8vd3d3Lm1hbmlsYXRpbWVzLm5ldC9uZXdzLydcclxuICB9LFxyXG4gIHtcclxuICAgIG5hbWU6ICdNYW5pbGEgU3RhbmRhcmQnLFxyXG4gICAgdXJsOiAnaHR0cDovL21hbmlsYXN0YW5kYXJkLm5ldC8nXHJcbiAgfSxcclxuICB7XHJcbiAgICBuYW1lOiAnQnVzaW5lc3NXb3JsZCcsXHJcbiAgICB1cmw6ICdodHRwOi8vYndvcmxkb25saW5lLmNvbS8nXHJcbiAgfSxcclxuICB7XHJcbiAgICBuYW1lOiAnQnVzaW5lc3MgTWlycm9yJyxcclxuICAgIHVybDogJ2h0dHBzOi8vYnVzaW5lc3NtaXJyb3IuY29tLnBoLydcclxuICB9LFxyXG4gIHtcclxuICAgIG5hbWU6ICdUaGUgRGFpbHkgVHJpYnVuZScsXHJcbiAgICB1cmw6ICdodHRwOi8vd3d3LnRyaWJ1bmUubmV0LnBoLydcclxuICB9LFxyXG4gIHtcclxuICAgIG5hbWU6ICdNYWxheWEnLFxyXG4gICAgdXJsOiAnaHR0cDovL3d3dy5tYWxheWEuY29tLnBoLydcclxuICB9XHJcbl07XHJcblxyXG5jb25zdCBGb290ZXIgPSAoKSA9PiB7XHJcbiAgcmV0dXJuIChcclxuICAgIDxkaXYgY2xhc3NOYW1lPVwiZm9vdGVyXCI+XHJcbiAgICAgIDxkaXY+XHJcbiAgICAgICAgPHA+XHJcbiAgICAgICAgICBJZiBJIG9ubHkgaGF2ZSBhbiBvcHBvcnR1bml0eSwgSSB3b3VsZCBzdWUgdGhvc2UgY2FyZWxlc3NcclxuICAgICAgICAgIHByYWN0aXRpb25lcnMuXHJcbiAgICAgICAgICA8YnIgLz5cclxuICAgICAgICAgIHtuZXcgRGF0ZSgpLmdldEZ1bGxZZWFyKCl9XHJcbiAgICAgICAgPC9wPlxyXG4gICAgICA8L2Rpdj5cclxuICAgICAgPGRpdj5cclxuICAgICAgICA8dWw+XHJcbiAgICAgICAgICB7UEhJTF9ORVdTUEFQUEVSUy5tYXAoaXRlbSA9PiAoXHJcbiAgICAgICAgICAgIDxsaSBrZXk9e2l0ZW0ubmFtZX0+XHJcbiAgICAgICAgICAgICAge2l0ZW0ubmFtZX0g4oCTeycgJ31cclxuICAgICAgICAgICAgICA8YSBocmVmPXtpdGVtLnVybH0gdGFyZ2V0PVwiX2JsYW5rXCI+XHJcbiAgICAgICAgICAgICAgICB7aXRlbS51cmx9XHJcbiAgICAgICAgICAgICAgPC9hPlxyXG4gICAgICAgICAgICA8L2xpPlxyXG4gICAgICAgICAgKSl9XHJcbiAgICAgICAgPC91bD5cclxuICAgICAgPC9kaXY+XHJcblxyXG4gICAgICA8c3R5bGUganN4PntgXHJcbiAgICAgICAgLmZvb3RlciB7XHJcbiAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMDAwMDAwO1xyXG4gICAgICAgICAgcGFkZGluZzogNjBweCAwIDUwcHg7XHJcbiAgICAgICAgICBjb2xvcjogI2ZmZmZmZjtcclxuICAgICAgICAgIGZvbnQtc2l6ZTogMTJweDtcclxuICAgICAgICAgIGRpc3BsYXk6IGZsZXg7XHJcbiAgICAgICAgICBmbGV4LXdyYXA6IHdyYXA7XHJcbiAgICAgICAgfVxyXG4gICAgICAgIC5mb290ZXIgPiBkaXYge1xyXG4gICAgICAgICAgZmxleDogMTtcclxuICAgICAgICAgIGFsaWduLXNlbGY6IGNlbnRlcjtcclxuICAgICAgICAgIG1pbi13aWR0aDogMzAwcHg7XHJcbiAgICAgICAgfVxyXG4gICAgICAgIHAge1xyXG4gICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG4gICAgICAgIH1cclxuICAgICAgICBhIHtcclxuICAgICAgICAgIGNvbG9yOiAjZGRkZGRkO1xyXG4gICAgICAgIH1cclxuICAgICAgICBhOmhvdmVyIHtcclxuICAgICAgICAgIGNvbG9yOiAjYmJiYmJiO1xyXG4gICAgICAgIH1cclxuICAgICAgYH08L3N0eWxlPlxyXG4gICAgPC9kaXY+XHJcbiAgKTtcclxufTtcclxuXHJcbmV4cG9ydCBkZWZhdWx0IEZvb3RlcjtcclxuIl19 */\n/*@ sourceURL=D:\\Node.js Projects\\Next.js Apps\\medicalmalpractice.github.io\\components\\Footer.js */"));
+  }, ".footer.jsx-2223359152{background-color:#000000;padding:60px 0 50px;color:#ffffff;font-size:12px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;}.footer.jsx-2223359152>div.jsx-2223359152{-webkit-flex:1;-ms-flex:1;flex:1;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;min-width:300px;}p.jsx-2223359152{text-align:center;}a.jsx-2223359152{color:#dddddd;}a.jsx-2223359152:hover{color:#bbbbbb;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkQ6XFxOb2RlLmpzIFByb2plY3RzXFxOZXh0LmpzIEFwcHNcXG1lZGljYWxtYWxwcmFjdGljZS5naXRodWIuaW9cXGNvbXBvbmVudHNcXEZvb3Rlci5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUErRGtCLEFBR29DLEFBUWxCLEFBS1csQUFHSixBQUdBLGNBRmhCLEFBR0EsSUFOQSxPQWJzQixRQVFGLFlBUEosY0FDQyxlQUNGLDhCQU1HLGdCQUNsQiw0QkFOaUIseURBQ2pCIiwiZmlsZSI6IkQ6XFxOb2RlLmpzIFByb2plY3RzXFxOZXh0LmpzIEFwcHNcXG1lZGljYWxtYWxwcmFjdGljZS5naXRodWIuaW9cXGNvbXBvbmVudHNcXEZvb3Rlci5qcyIsInNvdXJjZXNDb250ZW50IjpbImNvbnN0IFBISUxfTkVXU1BBUFBFUlMgPSBbXHJcbiAge1xyXG4gICAgbmFtZTogJ1BoaWxpcHBpbmUgRGFpbHkgSW5xdWlyZXInLFxyXG4gICAgdXJsOiAnaHR0cDovL2lucXVpcmVyLm5ldC8nXHJcbiAgfSxcclxuICB7XHJcbiAgICBuYW1lOiAnUGhpbGlwcGluZSBTdGFyJyxcclxuICAgIHVybDogJ2h0dHA6Ly9waGlsc3Rhci5jb20vJ1xyXG4gIH0sXHJcbiAge1xyXG4gICAgbmFtZTogJ01hbmlsYSBCdWxsZXRpbicsXHJcbiAgICB1cmw6ICdodHRwczovL21iLmNvbS5waC8nXHJcbiAgfSxcclxuICB7XHJcbiAgICBuYW1lOiAnVGhlIE1hbmlsYSBUaW1lcycsXHJcbiAgICB1cmw6ICdodHRwOi8vd3d3Lm1hbmlsYXRpbWVzLm5ldC9uZXdzLydcclxuICB9LFxyXG4gIHtcclxuICAgIG5hbWU6ICdNYW5pbGEgU3RhbmRhcmQnLFxyXG4gICAgdXJsOiAnaHR0cDovL21hbmlsYXN0YW5kYXJkLm5ldC8nXHJcbiAgfSxcclxuICB7XHJcbiAgICBuYW1lOiAnQnVzaW5lc3NXb3JsZCcsXHJcbiAgICB1cmw6ICdodHRwOi8vYndvcmxkb25saW5lLmNvbS8nXHJcbiAgfSxcclxuICB7XHJcbiAgICBuYW1lOiAnQnVzaW5lc3MgTWlycm9yJyxcclxuICAgIHVybDogJ2h0dHBzOi8vYnVzaW5lc3NtaXJyb3IuY29tLnBoLydcclxuICB9LFxyXG4gIHtcclxuICAgIG5hbWU6ICdUaGUgRGFpbHkgVHJpYnVuZScsXHJcbiAgICB1cmw6ICdodHRwOi8vd3d3LnRyaWJ1bmUubmV0LnBoLydcclxuICB9LFxyXG4gIHtcclxuICAgIG5hbWU6ICdNYWxheWEnLFxyXG4gICAgdXJsOiAnaHR0cDovL3d3dy5tYWxheWEuY29tLnBoLydcclxuICB9XHJcbl07XHJcblxyXG5jb25zdCBGb290ZXIgPSAoKSA9PiB7XHJcbiAgcmV0dXJuIChcclxuICAgIDxkaXYgY2xhc3NOYW1lPVwiZm9vdGVyXCI+XHJcbiAgICAgIDxkaXY+XHJcbiAgICAgICAgPHA+XHJcbiAgICAgICAgICBJZiBJIG9ubHkgaGF2ZSBhbiBvcHBvcnR1bml0eSwgSSB3b3VsZCBnaXZlIHRob3NlIGdyZWVkeSBhbmQgY2FyZWxlc3NcclxuICAgICAgICAgIG1hbHByYWN0aXRpb25lcnMgc29tZSBsZXNzb25zLlxyXG4gICAgICAgICAgPGJyIC8+XHJcbiAgICAgICAgICB7bmV3IERhdGUoKS5nZXRGdWxsWWVhcigpfVxyXG4gICAgICAgIDwvcD5cclxuICAgICAgPC9kaXY+XHJcbiAgICAgIDxkaXY+XHJcbiAgICAgICAgPHVsPlxyXG4gICAgICAgICAge1BISUxfTkVXU1BBUFBFUlMubWFwKGl0ZW0gPT4gKFxyXG4gICAgICAgICAgICA8bGkga2V5PXtpdGVtLm5hbWV9PlxyXG4gICAgICAgICAgICAgIHtpdGVtLm5hbWV9IOKAk3snICd9XHJcbiAgICAgICAgICAgICAgPGEgaHJlZj17aXRlbS51cmx9IHRhcmdldD1cIl9ibGFua1wiPlxyXG4gICAgICAgICAgICAgICAge2l0ZW0udXJsfVxyXG4gICAgICAgICAgICAgIDwvYT5cclxuICAgICAgICAgICAgPC9saT5cclxuICAgICAgICAgICkpfVxyXG4gICAgICAgIDwvdWw+XHJcbiAgICAgIDwvZGl2PlxyXG5cclxuICAgICAgPHN0eWxlIGpzeD57YFxyXG4gICAgICAgIC5mb290ZXIge1xyXG4gICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzAwMDAwMDtcclxuICAgICAgICAgIHBhZGRpbmc6IDYwcHggMCA1MHB4O1xyXG4gICAgICAgICAgY29sb3I6ICNmZmZmZmY7XHJcbiAgICAgICAgICBmb250LXNpemU6IDEycHg7XHJcbiAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAgICAgICAgZmxleC13cmFwOiB3cmFwO1xyXG4gICAgICAgIH1cclxuICAgICAgICAuZm9vdGVyID4gZGl2IHtcclxuICAgICAgICAgIGZsZXg6IDE7XHJcbiAgICAgICAgICBhbGlnbi1zZWxmOiBjZW50ZXI7XHJcbiAgICAgICAgICBtaW4td2lkdGg6IDMwMHB4O1xyXG4gICAgICAgIH1cclxuICAgICAgICBwIHtcclxuICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcclxuICAgICAgICB9XHJcbiAgICAgICAgYSB7XHJcbiAgICAgICAgICBjb2xvcjogI2RkZGRkZDtcclxuICAgICAgICB9XHJcbiAgICAgICAgYTpob3ZlciB7XHJcbiAgICAgICAgICBjb2xvcjogI2JiYmJiYjtcclxuICAgICAgICB9XHJcbiAgICAgIGB9PC9zdHlsZT5cclxuICAgIDwvZGl2PlxyXG4gICk7XHJcbn07XHJcblxyXG5leHBvcnQgZGVmYXVsdCBGb290ZXI7XHJcbiJdfQ== */\n/*@ sourceURL=D:\\Node.js Projects\\Next.js Apps\\medicalmalpractice.github.io\\components\\Footer.js */"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Footer);
@@ -24785,18 +24785,7 @@ function getMediaThumbnail(media) {
 
 /***/ }),
 
-/***/ 1:
-/*!********************!*\
-  !*** os (ignored) ***!
-  \********************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-/* (ignored) */
-
-/***/ }),
-
-/***/ 2:
+/***/ 0:
 /*!********************************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fposts%2F%5Bslug%5D&absolutePagePath=D%3A%5CNode.js%20Projects%5CNext.js%20Apps%5Cmedicalmalpractice.github.io%5Cpages%5Cposts%5C%5Bslug%5D.js ***!
   \********************************************************************************************************************************************************************************************/
@@ -24805,6 +24794,17 @@ function getMediaThumbnail(media) {
 
 module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fposts%2F%5Bslug%5D&absolutePagePath=D%3A%5CNode.js%20Projects%5CNext.js%20Apps%5Cmedicalmalpractice.github.io%5Cpages%5Cposts%5C%5Bslug%5D.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fposts%2F%5Bslug%5D&absolutePagePath=D%3A%5CNode.js%20Projects%5CNext.js%20Apps%5Cmedicalmalpractice.github.io%5Cpages%5Cposts%5C%5Bslug%5D.js!./");
 
+
+/***/ }),
+
+/***/ 1:
+/*!********************!*\
+  !*** os (ignored) ***!
+  \********************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+/* (ignored) */
 
 /***/ }),
 
@@ -24819,5 +24819,5 @@ module.exports = dll_129a35c7ec57967eb265;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=[slug].js.map
