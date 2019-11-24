@@ -22425,18 +22425,7 @@ function getMediaThumbnail(media) {
 
 /***/ }),
 
-/***/ 1:
-/*!********************!*\
-  !*** os (ignored) ***!
-  \********************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-/* (ignored) */
-
-/***/ }),
-
-/***/ 2:
+/***/ 0:
 /*!*************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=D%3A%5CNode.js%20Projects%5CNext.js%20Apps%5Cmedicalmalpractice.github.io%5Cpages%5Cindex.js ***!
   \*************************************************************************************************************************************************************/
@@ -22445,6 +22434,17 @@ function getMediaThumbnail(media) {
 
 module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=D%3A%5CNode.js%20Projects%5CNext.js%20Apps%5Cmedicalmalpractice.github.io%5Cpages%5Cindex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=D%3A%5CNode.js%20Projects%5CNext.js%20Apps%5Cmedicalmalpractice.github.io%5Cpages%5Cindex.js!./");
 
+
+/***/ }),
+
+/***/ 1:
+/*!********************!*\
+  !*** os (ignored) ***!
+  \********************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+/* (ignored) */
 
 /***/ }),
 
@@ -22459,5 +22459,5 @@ module.exports = dll_129a35c7ec57967eb265;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
